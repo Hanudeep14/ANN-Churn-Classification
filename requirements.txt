@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 streamlit
 tensorboard
-tensorflow
+tensorflow==2.9.0
